@@ -22,7 +22,7 @@ document.getElementById("siBtn").addEventListener("click", function () {
 
   // Mostrar el mensaje específico
   document.getElementById("messageContainer").style.display = "block";
-  document.getElementById("messageContainer").innerHTML = "SIUUUUUU";
+  document.getElementById("messageContainer").innerHTML = "❤❤❤❤❤❤❤❤";
 
 
   // Mostrar otro gif después de 3 segundos
