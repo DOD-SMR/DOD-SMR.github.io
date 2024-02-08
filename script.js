@@ -84,8 +84,8 @@ document.getElementById("noBtn").addEventListener("click", function () {
       document.getElementById("sadGifContainer1").style.display = "block";
 
       // Hacer que el botón "Sí" crezca
-      document.getElementById("siBtn").style.fontSize = "60px";
-      document.getElementById("siBtn").style.padding = "40px 60px";
+      document.getElementById("siBtn").style.fontSize = "55px";
+      document.getElementById("siBtn").style.padding = "35px 55px";
       document.getElementById("siBtn").innerHTML = "Puque mases esto¿ :("
 
       noButtonState++;
@@ -96,8 +96,8 @@ document.getElementById("noBtn").addEventListener("click", function () {
       document.getElementById("noBtn").style.backgroundColor = "#F1330A";
 
       // Hacer que el botón "Sí" crezca
-      document.getElementById("siBtn").style.fontSize = "70px";
-      document.getElementById("siBtn").style.padding = "40px 70px";
+      document.getElementById("siBtn").style.fontSize = "65px";
+      document.getElementById("siBtn").style.padding = "35px 65px";
       document.getElementById("siBtn").innerHTML = "AUN PUEDES ARREGLARLO"
       noButtonState++;
       break;
@@ -106,8 +106,8 @@ document.getElementById("noBtn").addEventListener("click", function () {
       document.getElementById("noBtn").style.backgroundColor = "#F1330A";
 
       // Hacer que el botón "Sí" crezca
-      document.getElementById("siBtn").style.fontSize = "80px";
-      document.getElementById("siBtn").style.padding = "50px 80px";
+      document.getElementById("siBtn").style.fontSize = "70px";
+      document.getElementById("siBtn").style.padding = "45px 70px";
       document.getElementById("siBtn").innerHTML = "Soy un partidazo"
 
       noButtonState++;
@@ -117,8 +117,8 @@ document.getElementById("noBtn").addEventListener("click", function () {
       document.getElementById("noBtn").style.backgroundColor = "#F1330A";
 
       // Hacer que el botón "Sí" crezca
-      document.getElementById("siBtn").style.fontSize = "90px";
-      document.getElementById("siBtn").style.padding = "60px 90px";
+      document.getElementById("siBtn").style.fontSize = "75px";
+      document.getElementById("siBtn").style.padding = "50px 75px";
       document.getElementById("siBtn").innerHTML = "POFIII"
       noButtonState++;
       break;
@@ -127,105 +127,12 @@ document.getElementById("noBtn").addEventListener("click", function () {
       document.getElementById("noBtn").style.backgroundColor = "#F1330A";
 
       // Hacer que el botón "Sí" crezca
-      document.getElementById("siBtn").style.fontSize = "100px";
-      document.getElementById("siBtn").style.padding = "70px 100px";
+      document.getElementById("siBtn").style.fontSize = "80px";
+      document.getElementById("siBtn").style.padding = "55px 80px";
       document.getElementById("siBtn").innerHTML = "POR SUPUESTO"
 
       noButtonState++;
       break;
-    case 7:
-      document.getElementById("noBtn").innerHTML = "";
-      document.getElementById("noBtn").style.backgroundColor = "#F1330A";
-
-      // Hacer que el botón "Sí" crezca
-      document.getElementById("siBtn").style.fontSize = "";
-      document.getElementById("siBtn").style.padding = " ";
-
-      noButtonState++;
-      break;
-    case 8:
-      document.getElementById("noBtn").innerHTML = "";
-      document.getElementById("noBtn").style.backgroundColor = "#F1330A";
-
-      document.getElementById("siBtn").style.fontSize = "";
-      document.getElementById("siBtn").style.padding = " ";
-
-      noButtonState++;
-      break;
-
-    case 9:
-      document.getElementById("noBtn").innerHTML = "";
-      document.getElementById("noBtn").style.backgroundColor = "#F1330A";
-
-      // Hacer que el botón "Sí" crezca
-      document.getElementById("siBtn").style.fontSize = "";
-      document.getElementById("siBtn").style.padding = " ";
-
-      noButtonState++;
-      break;
-
-    case 10:
-      document.getElementById("noBtn").innerHTML ="";
-      document.getElementById("noBtn").style.backgroundColor = "#F1330A";
-
-      document.getElementById("siBtn").style.fontSize = "";
-      document.getElementById("siBtn").style.padding = " ";
-
-      noButtonState++;
-      break;
-    case 11:
-      document.getElementById("noBtn").innerHTML = "";
-      document.getElementById("noBtn").style.backgroundColor = "#F1330A";
-
-      document.getElementById("siBtn").style.fontSize = "";
-      document.getElementById("siBtn").style.padding = " ";
-
-      noButtonState++;
-      break;
-
-    case 12:
-      document.getElementById("noBtn").innerHTML ="";
-      document.getElementById("noBtn").style.backgroundColor = "#F1330A";
-
-      // Hacer que el botón "Sí" crezca
-      document.getElementById("siBtn").style.fontSize = "";
-      document.getElementById("siBtn").style.padding = " ";
-
-      noButtonState++;
-      break;
-
-    case 13:
-      document.getElementById("noBtn").innerHTML ="";
-      document.getElementById("noBtn").style.backgroundColor = "#F1330A";
-
-      document.getElementById("siBtn").style.fontSize = "";
-      document.getElementById("siBtn").style.padding = " ";
-
-      noButtonState++;
-      break;
-
-    case 14:
-      document.getElementById("noBtn").innerHTML = "";
-      document.getElementById("noBtn").style.backgroundColor = "#F1330A";
-
-      // Hacer que el botón "Sí" crezca
-      document.getElementById("siBtn").style.fontSize = "";
-      document.getElementById("siBtn").style.padding = " ";
-
-      noButtonState++;
-      break;
-
-    case 15:
-      document.getElementById("noBtn").innerHTML ="";
-      document.getElementById("noBtn").style.backgroundColor = "#F1330A";
-
-      // Hacer que el botón "Sí" crezca
-      document.getElementById("siBtn").style.fontSize = "";
-      document.getElementById("siBtn").style.padding = " ";
-
-      noButtonState++;
-      break;
-
     case 16:
       document.getElementById("noBtn").innerHTML = "por favooooooor";
       document.getElementById("noBtn").style.backgroundColor = "#F1330A";
